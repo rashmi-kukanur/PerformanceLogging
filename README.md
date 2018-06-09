@@ -3,7 +3,7 @@ This tool runs cassandra stress tool and records the metrics in CSV file and grp
 
 The tool makes use of JMXTerm library for recording the metrics and matplotlib library for plotting the graphs.
 
-To execute the code run the following from command line:
+To execute the code, run the following from command line:
 python perflog.py
 
 Output:CSV file (attached)
